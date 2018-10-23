@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: fa7eb9e9845964fb39b7910f44f67059
+timeCreated: 1521923976
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "canap\xE9 canap\xE9 [284955]"
+    100004: Chaise Ikea Chaise Ikea [286199]
+    100006: chaise transparente chaise transparente [283929]
+    100008: chaise transparente chaise transparente [283984]
+    100010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    100012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    100014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    100016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    100018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    100020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    100022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    100024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    100026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    100028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    100030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    100032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    100034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    100036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    100038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    100040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    100042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    100044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    100046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    100048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    100050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    100052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    100054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    100056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    100058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    100060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    100062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    100064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    100066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    100068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    100070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    100072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    100074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    100076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    100078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    100080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    100082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    100084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    100086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    100088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    100090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    100092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    100094: 'Vue 3D: Vue 3D 2'
+    400000: //RootNode
+    400002: "canap\xE9 canap\xE9 [284955]"
+    400004: Chaise Ikea Chaise Ikea [286199]
+    400006: chaise transparente chaise transparente [283929]
+    400008: chaise transparente chaise transparente [283984]
+    400010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    400012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    400014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    400016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    400018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    400020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    400022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    400024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    400026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    400028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    400030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    400032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    400034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    400036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    400038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    400040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    400042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    400044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    400046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    400048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    400050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    400052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    400054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    400056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    400058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    400060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    400062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    400064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    400066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    400068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    400070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    400072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    400074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    400076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    400078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    400080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    400082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    400084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    400086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    400088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    400090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    400092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    400094: 'Vue 3D: Vue 3D 2'
+    2000000: 'Vue 3D: Vue 3D 2'
+    2100000: No Name
+    2300000: "canap\xE9 canap\xE9 [284955]"
+    2300002: Chaise Ikea Chaise Ikea [286199]
+    2300004: chaise transparente chaise transparente [283929]
+    2300006: chaise transparente chaise transparente [283984]
+    2300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    2300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    2300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    2300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    2300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    2300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    2300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    2300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    2300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    2300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    2300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    2300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    2300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    2300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    2300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    2300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    2300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    2300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    2300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    2300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    2300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    2300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    2300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    2300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    2300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    2300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    2300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    2300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    2300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    2300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    2300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    2300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    2300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    2300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    2300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    2300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    2300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    2300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    2300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    2300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    2300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    2300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    3300000: "canap\xE9 canap\xE9 [284955]"
+    3300002: Chaise Ikea Chaise Ikea [286199]
+    3300004: chaise transparente chaise transparente [283929]
+    3300006: chaise transparente chaise transparente [283984]
+    3300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    3300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    3300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    3300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    3300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    3300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    3300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    3300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    3300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    3300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    3300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    3300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    3300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    3300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    3300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    3300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    3300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    3300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    3300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    3300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    3300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    3300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    3300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    3300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    3300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    3300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    3300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    3300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    3300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    3300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    3300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    3300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    3300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    3300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    3300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    3300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    3300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    3300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    3300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    3300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    3300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    3300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300000: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    4300002: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    4300004: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    4300006: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    4300008: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    4300010: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    4300012: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    4300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    4300016: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    4300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    4300020: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    4300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    4300024: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    4300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    4300028: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    4300030: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    4300032: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    4300034: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    4300036: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    4300038: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    4300040: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    4300042: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300044: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    4300046: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    4300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    4300050: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    4300052: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    4300054: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    4300056: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    4300058: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    4300060: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    4300062: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    4300064: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    4300066: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    4300068: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    4300070: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    4300072: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    4300074: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    4300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    4300078: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    4300080: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    4300082: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    4300084: chaise transparente chaise transparente [283929]
+    4300086: "canap\xE9 canap\xE9 [284955]"
+    4300088: Chaise Ikea Chaise Ikea [286199]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+fileFormatVersion: 2
+guid: b29c184b8707e410b9997c5b6e1ff303
+timeCreated: 1521923976
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "canap\xE9 canap\xE9 [284955]"
+    100004: Chaise Ikea Chaise Ikea [286199]
+    100006: chaise transparente chaise transparente [283929]
+    100008: chaise transparente chaise transparente [283984]
+    100010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    100012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    100014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    100016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    100018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    100020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    100022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    100024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    100026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    100028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    100030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    100032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    100034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    100036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    100038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    100040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    100042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    100044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    100046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    100048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    100050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    100052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    100054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    100056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    100058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    100060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    100062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    100064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    100066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    100068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    100070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    100072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    100074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    100076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    100078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    100080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    100082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    100084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    100086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    100088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    100090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    100092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    100094: 'Vue 3D: Vue 3D 2'
+    400000: //RootNode
+    400002: "canap\xE9 canap\xE9 [284955]"
+    400004: Chaise Ikea Chaise Ikea [286199]
+    400006: chaise transparente chaise transparente [283929]
+    400008: chaise transparente chaise transparente [283984]
+    400010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    400012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    400014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    400016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    400018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    400020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    400022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    400024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    400026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    400028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    400030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    400032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    400034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    400036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    400038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    400040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    400042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    400044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    400046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    400048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    400050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    400052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    400054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    400056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    400058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    400060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    400062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    400064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    400066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    400068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    400070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    400072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    400074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    400076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    400078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    400080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    400082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    400084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    400086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    400088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    400090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    400092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    400094: 'Vue 3D: Vue 3D 2'
+    2000000: 'Vue 3D: Vue 3D 2'
+    2100000: No Name
+    2300000: "canap\xE9 canap\xE9 [284955]"
+    2300002: Chaise Ikea Chaise Ikea [286199]
+    2300004: chaise transparente chaise transparente [283929]
+    2300006: chaise transparente chaise transparente [283984]
+    2300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    2300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    2300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    2300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    2300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    2300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    2300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    2300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    2300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    2300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    2300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    2300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    2300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    2300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    2300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    2300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    2300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    2300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    2300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    2300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    2300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    2300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    2300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    2300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    2300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    2300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    2300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    2300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    2300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    2300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    2300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    2300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    2300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    2300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    2300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    2300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    2300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    2300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    2300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    2300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    2300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    2300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    3300000: "canap\xE9 canap\xE9 [284955]"
+    3300002: Chaise Ikea Chaise Ikea [286199]
+    3300004: chaise transparente chaise transparente [283929]
+    3300006: chaise transparente chaise transparente [283984]
+    3300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    3300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    3300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    3300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    3300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    3300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    3300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    3300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    3300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    3300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    3300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    3300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    3300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    3300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    3300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    3300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    3300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    3300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    3300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    3300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    3300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    3300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    3300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    3300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    3300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    3300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    3300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    3300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    3300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    3300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    3300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    3300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    3300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    3300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    3300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    3300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    3300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    3300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    3300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    3300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    3300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    3300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300000: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    4300002: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    4300004: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    4300006: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    4300008: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    4300010: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    4300012: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    4300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    4300016: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    4300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    4300020: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    4300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    4300024: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    4300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    4300028: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    4300030: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    4300032: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    4300034: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    4300036: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    4300038: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    4300040: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    4300042: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300044: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    4300046: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    4300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    4300050: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    4300052: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    4300054: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    4300056: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    4300058: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    4300060: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    4300062: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    4300064: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    4300066: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    4300068: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    4300070: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    4300072: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    4300074: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    4300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    4300078: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    4300080: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    4300082: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    4300084: chaise transparente chaise transparente [283929]
+    4300086: "canap\xE9 canap\xE9 [284955]"
+    4300088: Chaise Ikea Chaise Ikea [286199]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+fileFormatVersion: 2
+guid: b29c184b8707e410b9997c5b6e1ff303
+timeCreated: 1521923976
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "canap\xE9 canap\xE9 [284955]"
+    100004: Chaise Ikea Chaise Ikea [286199]
+    100006: chaise transparente chaise transparente [283929]
+    100008: chaise transparente chaise transparente [283984]
+    100010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    100012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    100014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    100016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    100018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    100020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    100022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    100024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    100026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    100028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    100030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    100032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    100034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    100036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    100038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    100040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    100042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    100044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    100046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    100048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    100050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    100052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    100054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    100056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    100058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    100060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    100062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    100064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    100066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    100068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    100070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    100072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    100074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    100076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    100078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    100080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    100082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    100084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    100086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    100088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    100090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    100092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    100094: 'Vue 3D: Vue 3D 2'
+    400000: //RootNode
+    400002: "canap\xE9 canap\xE9 [284955]"
+    400004: Chaise Ikea Chaise Ikea [286199]
+    400006: chaise transparente chaise transparente [283929]
+    400008: chaise transparente chaise transparente [283984]
+    400010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    400012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    400014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    400016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    400018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    400020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    400022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    400024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    400026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    400028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    400030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    400032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    400034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    400036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    400038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    400040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    400042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    400044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    400046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    400048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    400050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    400052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    400054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    400056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    400058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    400060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    400062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    400064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    400066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    400068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    400070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    400072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    400074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    400076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    400078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    400080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    400082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    400084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    400086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    400088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    400090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    400092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    400094: 'Vue 3D: Vue 3D 2'
+    2000000: 'Vue 3D: Vue 3D 2'
+    2100000: No Name
+    2300000: "canap\xE9 canap\xE9 [284955]"
+    2300002: Chaise Ikea Chaise Ikea [286199]
+    2300004: chaise transparente chaise transparente [283929]
+    2300006: chaise transparente chaise transparente [283984]
+    2300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    2300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    2300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    2300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    2300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    2300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    2300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    2300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    2300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    2300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    2300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    2300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    2300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    2300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    2300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    2300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    2300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    2300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    2300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    2300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    2300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    2300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    2300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    2300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    2300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    2300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    2300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    2300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    2300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    2300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    2300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    2300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    2300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    2300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    2300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    2300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    2300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    2300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    2300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    2300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    2300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    2300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    3300000: "canap\xE9 canap\xE9 [284955]"
+    3300002: Chaise Ikea Chaise Ikea [286199]
+    3300004: chaise transparente chaise transparente [283929]
+    3300006: chaise transparente chaise transparente [283984]
+    3300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    3300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    3300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    3300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    3300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    3300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    3300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    3300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    3300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    3300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    3300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    3300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    3300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    3300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    3300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    3300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    3300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    3300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    3300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    3300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    3300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    3300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    3300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    3300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    3300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    3300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    3300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    3300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    3300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    3300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    3300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    3300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    3300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    3300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    3300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    3300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    3300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    3300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    3300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    3300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    3300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    3300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300000: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    4300002: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    4300004: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    4300006: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    4300008: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    4300010: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    4300012: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    4300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    4300016: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    4300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    4300020: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    4300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    4300024: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    4300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    4300028: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    4300030: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    4300032: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    4300034: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    4300036: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    4300038: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    4300040: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    4300042: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300044: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    4300046: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    4300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    4300050: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    4300052: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    4300054: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    4300056: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    4300058: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    4300060: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    4300062: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    4300064: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    4300066: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    4300068: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    4300070: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    4300072: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    4300074: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    4300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    4300078: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    4300080: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    4300082: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    4300084: chaise transparente chaise transparente [283929]
+    4300086: "canap\xE9 canap\xE9 [284955]"
+    4300088: Chaise Ikea Chaise Ikea [286199]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+fileFormatVersion: 2
+guid: b29c184b8707e410b9997c5b6e1ff303
+timeCreated: 1521923976
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "canap\xE9 canap\xE9 [284955]"
+    100004: Chaise Ikea Chaise Ikea [286199]
+    100006: chaise transparente chaise transparente [283929]
+    100008: chaise transparente chaise transparente [283984]
+    100010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    100012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    100014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    100016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    100018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    100020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    100022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    100024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    100026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    100028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    100030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    100032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    100034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    100036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    100038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    100040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    100042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    100044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    100046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    100048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    100050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    100052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    100054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    100056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    100058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    100060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    100062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    100064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    100066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    100068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    100070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    100072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    100074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    100076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    100078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    100080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    100082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    100084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    100086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    100088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    100090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    100092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    100094: 'Vue 3D: Vue 3D 2'
+    400000: //RootNode
+    400002: "canap\xE9 canap\xE9 [284955]"
+    400004: Chaise Ikea Chaise Ikea [286199]
+    400006: chaise transparente chaise transparente [283929]
+    400008: chaise transparente chaise transparente [283984]
+    400010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    400012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    400014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    400016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    400018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    400020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    400022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    400024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    400026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    400028: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    400030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    400032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    400034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    400036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    400038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    400040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    400042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    400044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    400046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    400048: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    400050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    400052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    400054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    400056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    400058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    400060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    400062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    400064: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    400066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    400068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    400070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    400072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    400074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    400076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    400078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    400080: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    400082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    400084: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    400086: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    400088: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    400090: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    400092: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    400094: 'Vue 3D: Vue 3D 2'
+    2000000: 'Vue 3D: Vue 3D 2'
+    2100000: No Name
+    2300000: "canap\xE9 canap\xE9 [284955]"
+    2300002: Chaise Ikea Chaise Ikea [286199]
+    2300004: chaise transparente chaise transparente [283929]
+    2300006: chaise transparente chaise transparente [283984]
+    2300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    2300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    2300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    2300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    2300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    2300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    2300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    2300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    2300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    2300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    2300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    2300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    2300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    2300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    2300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    2300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    2300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    2300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    2300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    2300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    2300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    2300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    2300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    2300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    2300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    2300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    2300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    2300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    2300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    2300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    2300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    2300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    2300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    2300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    2300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    2300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    2300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    2300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    2300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    2300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    2300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    2300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    3300000: "canap\xE9 canap\xE9 [284955]"
+    3300002: Chaise Ikea Chaise Ikea [286199]
+    3300004: chaise transparente chaise transparente [283929]
+    3300006: chaise transparente chaise transparente [283984]
+    3300008: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    3300010: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    3300012: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    3300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    3300016: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    3300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    3300020: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    3300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    3300024: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    3300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    3300028: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    3300030: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    3300032: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    3300034: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    3300036: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    3300038: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    3300040: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    3300042: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    3300044: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    3300046: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    3300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    3300050: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    3300052: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    3300054: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    3300056: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    3300058: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    3300060: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    3300062: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    3300064: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    3300066: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    3300068: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    3300070: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    3300072: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    3300074: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    3300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    3300078: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    3300080: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    3300082: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    3300084: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    3300086: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    3300088: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    3300090: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300000: "Sol Dalle en b\xE9ton - 250 mm [249883]"
+    4300002: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249951]"
+    4300004: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [249989]"
+    4300006: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [250376]"
+    4300008: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [250618]"
+    4300010: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [251272]"
+    4300012: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [260653]"
+    4300014: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [260654]"
+    4300016: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261159]"
+    4300018: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261160]"
+    4300020: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [261668]"
+    4300022: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [261669]"
+    4300024: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [262079]"
+    4300026: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [262080]"
+    4300028: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [262793]"
+    4300030: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [265634]"
+    4300032: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [267212]"
+    4300034: "Mur de base Int. pl\xE2tre 100 mm [268007]"
+    4300036: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [269192]"
+    4300038: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [269559]"
+    4300040: "Mur de base Int. pl\xE2tre 100 mm [269829]"
+    4300042: "Sol Dalle en b\xE9ton - 250 mm [269914]"
+    4300044: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [270264]"
+    4300046: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [271135]"
+    4300048: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [271265]"
+    4300050: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274122]"
+    4300052: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274123]"
+    4300054: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [274798]"
+    4300056: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [274799]"
+    4300058: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [275058]"
+    4300060: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [275059]"
+    4300062: "Mur de base G\xE9n\xE9rique - Ext. 400 mm [278399]"
+    4300064: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [279275]"
+    4300066: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [279276]"
+    4300068: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280319]"
+    4300070: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280320]"
+    4300072: "Mur de base G\xE9n\xE9rique - Ext. 0.15 mm [280500]"
+    4300074: "Mur de base G\xE9n\xE9rique - Ext. 0.10 mm [280501]"
+    4300076: "Mur de base G\xE9n\xE9rique - Ext. 200 mm [280717]"
+    4300078: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281019]"
+    4300080: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281186]"
+    4300082: "Mur de base G\xE9n\xE9rique - Ext. 150 mm [281327]"
+    4300084: chaise transparente chaise transparente [283929]
+    4300086: "canap\xE9 canap\xE9 [284955]"
+    4300088: Chaise Ikea Chaise Ikea [286199]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
